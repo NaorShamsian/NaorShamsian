@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NaorShamsian
 - 👀 I’m interested in Full Stack Java Developer
-- 🌱 I’m currently learning Spring Framework
+- 🌱 I’m currently studying and growing
 - 📫 You can reach me on
 1. Mail Address - naorshamsian1@gmail.com 
 2. LinkedIn - https://www.linkedin.com/in/naor-shamsian-aa0b68219
