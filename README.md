@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @NaorShamsian
-- 👀 I’m interested in Full Stack Java Developer
-- 🌱 I’m currently studying and growing
-- 📫 You can reach me on
-1. Mail Address - naorshamsian1@gmail.com 
-2. LinkedIn - https://www.linkedin.com/in/naor-shamsian-aa0b68219
-3. Call me - +972558819809
+- 👋 Hi, I’m @NaorShamsian  
+- 💻 Computer Science student with a strong passion for backend development and real-world systems  
+- 🚀 Experienced in building applications with modern technologies and always eager to learn more  
+- 🌱 Continuously improving my skills in software development and problem solving  
 
+- 📫 Let’s connect:  
+  📧 Email: naorshamsian1@gmail.com  
+  💼 LinkedIn: https://www.linkedin.com/in/naor-shamsian-aa0b68219  
+  📱 Phone: +972558819809  
