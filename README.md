@@ -6,5 +6,5 @@
 - 📫 Let’s connect:  
   📧 Email: naorshamsian1@gmail.com  
   💼 LinkedIn: https://www.linkedin.com/in/naor-shamsian-aa0b68219
-  💼 Personal site: https://dev-portfolio-template-pied.vercel.app/naor-shamsian-ettfa
+                          💼 Personal site: https://dev-portfolio-template-pied.vercel.app/naor-shamsian-ettfa
   📱 Phone: +972558819809  
